@@ -1,7 +1,7 @@
 
 # Playwright
 node_modules/
-/test-results/
+# comment for now to display test result in git repo /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
